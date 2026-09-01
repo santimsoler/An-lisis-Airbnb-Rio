@@ -1,0 +1,10 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+joblib
+jupyter
+reportlab
+Pillow
+pdf2image
