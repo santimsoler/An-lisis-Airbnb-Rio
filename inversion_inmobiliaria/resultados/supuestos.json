@@ -1,0 +1,18 @@
+{
+  "itbi": 0.03,
+  "escritura": 0.015,
+  "amoblado_por_m2": 1000,
+  "comision_airbnb": 0.03,
+  "gestion": 0.2,
+  "mantenimiento_seguro": 0.002,
+  "energia_base_mes": 40,
+  "energia_por_noche": 4.0,
+  "factor_ocup_otros_canales": 1.3,
+  "ir_renta": 0.075,
+  "apreciacion": 0.055,
+  "inflacion_costos": 0.04,
+  "ajuste_tarifa": 0.04,
+  "horizonte": 10,
+  "costo_venta": 0.06,
+  "tasa_desc": 0.0712
+}
